@@ -1,0 +1,32 @@
+{
+ "title": "Javascript",
+ "children": [
+   {
+     "subtitle": "Get Started with JavaScript",
+     "categories": [{ "category": "Example" }, { "category": "FAQ" }]
+   },
+   {
+     "subtitle": "Object oriented JavaScript",
+     "categories": [
+       { "category": "Example" },
+       { "category": "FAQ" },
+       { "category": "Refrence Material" }
+     ]
+   },
+   {
+     "subtitle": "AJAX",
+     "categories": [
+       { "category": "Basic AJAX" },
+       {
+         "category": "Advanced AJAX",
+         "ajax": [
+           { "feature": "AJAX Database" },
+           { "feature": "AJAX Applications" }
+         ]
+       },
+       { "category": "Worksheets" },
+       { "category": "FAQ" }
+     ]
+   }
+ ]
+}

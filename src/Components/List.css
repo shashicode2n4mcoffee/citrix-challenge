@@ -1,0 +1,22 @@
+
+
+.list {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  margin-left:1rem;
+}
+
+.list-lvl1 {
+  padding-left: 3rem;
+}
+
+.list-lvl2 {
+  padding-left: 6rem;
+}
+
+.list-lvl3 {
+  padding-left: 6rem;
+}
